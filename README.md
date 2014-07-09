@@ -73,6 +73,7 @@ create
 	python cpapp.py inspect templates\python
 
 生成新项目:
+
     生成一个简单文件(python):
 	python cpapp.py create templates\python b -f -p author=me,hello=World
 	生成一个实例服务器(twisted-server):
